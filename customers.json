@@ -1,0 +1,51 @@
+{
+   "customers": [
+    {
+       "lname" : "Bennet",
+       "fname" : "George",
+       "email" : "gb@foo.bar",
+       "id" : 102,
+       "spent": 123.45
+    },
+
+    {
+      "lname" : "Peters",
+      "fname" : "Emily",
+      "email" : "ep@foo.bar",
+      "id" : 53,
+      "spent": 15.50
+   },
+
+   {
+      "lname" : "Green",
+      "fname" : "Peter",
+      "email" : "pg@foo.bar",
+      "id" : 76,
+      "spent": 321.20
+   },
+
+   {
+      "lname" : "Dunn",
+      "fname" : "Jack",
+      "email" : "jd@foo.bar",
+      "id" : 92,
+      "spent": 87.32
+   },
+
+   {
+      "lname" : "Armstrong",
+      "fname" : "Jennifer",
+      "email" : "ja@foo.bar",
+      "id" : 6,
+      "spent": 31.87
+   },
+
+   {
+      "lname" : "Bradford",
+      "fname" : "Henry",
+      "email" : "hb@foo.bar",
+      "id" : 143,
+      "spent": 75.26
+   }]
+
+}
